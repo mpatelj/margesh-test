@@ -1,4 +1,4 @@
-# 
+# Technical Test - TD Bank
 This project is created using _`Gulp, Gulp SASS and Browsersync`_. 
 
 To run the code on your local dev environment, use **`$gulp`** command when in the project folder.
